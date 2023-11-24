@@ -1,0 +1,15 @@
+.card {
+  margin-left: 100px;
+  background: #f6f6f6;
+  width: 673px;
+  height: 72px;
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+.card h2 {
+  font-size: 20px;
+  text-align: center;
+  padding-left: 20px;
+}
